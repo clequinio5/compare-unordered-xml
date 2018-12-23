@@ -1,0 +1,15 @@
+<acces>
+    <balise1>balise1</balise1>
+    <balise2>balise2</balise2>
+    <balise1 name="balise1">
+        <sous_balise1>sous_balise1</sous_balise1>
+        <sous_balise2>sous_balise2</sous_balise2>
+        <sous_balise3>sous_balise3</sous_balise3>
+    </balise1>
+    <balise2 name="balise2">
+        <sous_balise1>sous_balise1</sous_balise1>
+        <sous_balise4>sous_balise4</sous_balise4>
+        <sous_balise3>sous_balise3</sous_balise3>
+    </balise2>
+    <balise3>balise3</balise3>
+</acces>
